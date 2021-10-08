@@ -8,6 +8,6 @@ Merk at oppvarmingsett til enhver tid utføres ved ca 60% av gjeldende arbeidsve
 
 ## Du finner øktene her
 
-[Økt 1 - Fokus på trekk](workouts/day1.md)
-[Økt 2 - Fokus på skyving](workouts/day2.md)
-[Økt 3 - All Inclusive](workouts/day3.md)
+* [Økt 1 - Fokus på trekk](workouts/day1.md)
+* [Økt 2 - Fokus på skyving](workouts/day2.md)
+* [Økt 3 - All Inclusive](workouts/day3.md)
